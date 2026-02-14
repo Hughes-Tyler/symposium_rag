@@ -1,0 +1,10 @@
+openai>=1.0.0
+python-dotenv
+pandas
+numpy
+tqdm
+requests
+beautifulsoup4
+scikit-learn
+tiktoken
+openpyxl
